@@ -1,0 +1,7 @@
+/node_modules
+
+# role ID's
+/roles.json
+
+# env
+.env

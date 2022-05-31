@@ -20,14 +20,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/garrett-huggins/Shad0Bot-V2.git"
-  },
-  "bugs": {
-    "url": "https://github.com/garrett-huggins/Shad0Bot-V2/issues"
-  },
-  "homepage": "https://github.com/garrett-huggins/Shad0Bot-V2#readme",
-  "description": ""
+  }
 }
